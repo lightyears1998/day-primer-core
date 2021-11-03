@@ -111,7 +111,7 @@
         "request-promise": "^4.2.5",
         "sqlite3": "^5",
         "typeorm": "^0.2.20",
-        "validator": "^13.1.1",
+        "validator": "^13.7.0",
         "yargs": "^15.0.0"
     }
 }
